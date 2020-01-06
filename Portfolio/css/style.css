@@ -20,6 +20,12 @@ h1 {
     font-size: 2.5em;
 }
 
+nav {
+    border-top: 3px dashed #546a7b;
+    border-bottom: 3px dashed #546a7b;
+    margin-top: 4px;
+}
+
 /* Table for index.html */
 caption {
     font-weight: bold;
