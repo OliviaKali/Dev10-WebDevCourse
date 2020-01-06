@@ -1,3 +1,25 @@
+/* Creator: Olivia Kalinowski
+Date created: 01/06/2020
+Date last modified:  */
+
+body {
+    background-color: #fef9ff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0d1f2d;
+}
+
+header {
+    background-color: #5b7d87;
+    color: #fef9ff;
+    height: 100px;
+    text-align: center;
+    padding: 30px 10px 20px 10px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
 /* Table for index.html */
 caption {
     font-weight: bold;
